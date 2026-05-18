@@ -23,7 +23,7 @@ Insights and recommendations are provided on the following key areas:
 * **Product performance** - Evaluating top-performing and underperforming products across stores and customer groups.
 * **Loyalty program effectiveness** - Measuring the impact of loyalty customers on revenue growth and repeat purchasing behaviour.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link]
+The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/ProsperObayangbon/quantum-chips-retail-analysis/blob/main/sql/data_cleaning.sql)
 
 Targeted SQL queries regarding various business questions can be found here [link]
 
