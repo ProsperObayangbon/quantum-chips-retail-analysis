@@ -31,7 +31,7 @@ An interactive Power BI dashboard used to report and explore this metrics can be
 ## Data Structure & Initial Checks
 The company's database structure consist of two primary tables: transaction_data and purchase_behaviour, with a combined row count exceeding 250,000 records.
 
-A desctription of each table is as follows:
+A description of each table is as follows:
 
 ### transaction_data
 
@@ -67,7 +67,7 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * Checked and standardised inconsistent product naming conventions.
 
 ## Entity Relationship Diagram (ERD)
-<img width="1408" height="768" alt="Gemini_Generated_Image_e2ltw1e2ltw1e2lt" src="https://github.com/user-attachments/assets/ec636566-fb08-4ec0-891c-00649485d166" />
+<img width="1000" height="768" alt="Gemini_Generated_Image_e2ltw1e2ltw1e2lt" src="https://github.com/user-attachments/assets/ec636566-fb08-4ec0-891c-00649485d166" />
 
 
 ## Executive Summary
