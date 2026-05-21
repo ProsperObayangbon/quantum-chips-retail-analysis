@@ -67,7 +67,7 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * Checked and standardised inconsistent product naming conventions.
 
 ## Entity Relationship Diagram (ERD)
-<img width="1000" height="768" alt="Gemini_Generated_Image_e2ltw1e2ltw1e2lt" src="https://github.com/user-attachments/assets/ec636566-fb08-4ec0-891c-00649485d166" />
+<img width="800" height="500" alt="Gemini_Generated_Image_e2ltw1e2ltw1e2lt" src="https://github.com/user-attachments/assets/ec636566-fb08-4ec0-891c-00649485d166" />
 
 
 ## Executive Summary
