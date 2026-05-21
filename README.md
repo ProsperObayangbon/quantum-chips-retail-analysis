@@ -29,6 +29,47 @@ Targeted SQL queries regarding various business questions can be found here [lin
 
 An interactive Power BI dashboard used to report and explore this metrics can be found here [link]
 ## Data Structure & Initial Checks
+The company's database structure consist of two primary tables: transaction_data and purchase_behaviour, with a combined row count exceeding 250,000 records.
+
+A desctription of each table is as follows:
+
+### transaction_data
+
+This table contains all customer transaction records across stores.
+
+| Column Name      | Description                          |
+|------------------|--------------------------------------|
+| DATE             | Transaction date                     |
+| STORE_NBR        | Store identification number          |
+| LYLTY_CARD_NBR   | Customer loyalty card number         |
+| TXN_NBR          | Unique transaction number            |
+| PROD_NBR         | Product identification number        |
+| PROD_NAME        | Product name                         |
+| TOT_SALES        | Total sales value                    |
+
+### Purchase_behaviour
+
+This table contains customer demographic and segmentation data.
+
+| Column Name      | Description                          |
+|------------------|--------------------------------------|
+| LYLTY_CARD_NBR   | Customer loyalty card number         |
+| LIFESTAGE        | Customer lifestage classification    |
+| PREMIUM_CUSTOMER | Premium customer category            |
+
+## Initial Data Checks Performed
+Before analysis, several data quality checks and cleaning procedures were completed [link](https://github.com/ProsperObayangbon/quantum-chips-retail-analysis/blob/main/sql/data_cleaning.sql):
+* Removed duplicate transaction records.
+* Checked for missing values across key fields.
+* Validated transaction dates and standardized data formats.
+* Verified customer loyalty card number across both tables.
+* Checked for negative sales values and transaction anomalies.
+* Checked and standardised inconsistent product naming conventions.
+
+## Entity Relationship Diagram (ERD)
+<img width="1408" height="768" alt="Gemini_Generated_Image_e2ltw1e2ltw1e2lt" src="https://github.com/user-attachments/assets/ec636566-fb08-4ec0-891c-00649485d166" />
+
+
 ## Executive Summary
 ## Insights Deep Dive
 ## Recommendations
