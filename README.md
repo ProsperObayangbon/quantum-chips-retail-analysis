@@ -25,7 +25,7 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/ProsperObayangbon/quantum-chips-retail-analysis/blob/main/sql/data_cleaning.sql)
 
-Targeted SQL queries regarding various business questions can be found here [link]
+Targeted SQL queries regarding various business questions can be found here [link] (https://github.com/ProsperObayangbon/quantum-chips-retail-analysis/blob/main/sql/Business_questions.sql)
 
 An interactive Power BI dashboard used to report and explore this metrics can be found here [link]
 ## Data Structure & Initial Checks
