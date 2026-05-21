@@ -272,23 +272,10 @@ SELECT
 FROM qvi_transaction_data_staging2;
 
 
--- =============================================================
--- STEP 9: PERFORMANCE OPTIMIZATION
--- =============================================================
-
--- Create indexes to improve query performance.
-CREATE INDEX idx_transaction_customer
-ON qvi_transaction_data_staging2(lylty_card);
-
-CREATE INDEX idx_transaction_date
-ON qvi_transaction_data_staging2(date);
-
-CREATE INDEX idx_transaction_product
-ON qvi_transaction_data_staging2(prod_nbr);
 
 
 -- =============================================================
--- STEP 10: REMOVE TEMPORARY COLUMNS
+-- STEP 9: REMOVE TEMPORARY COLUMNS
 -- =============================================================
 
 -- Remove helper column used during duplicate detection.
@@ -464,20 +451,10 @@ SELECT
 FROM qvi_purchase_behaviour_staging2;
 
 
--- =============================================================
--- STEP 9: PERFORMANCE OPTIMIZATION
--- =============================================================
-
--- Create indexes for faster joins and filtering.
-CREATE INDEX idx_customer_card
-ON qvi_purchase_behaviour_staging2(lylty_card);
-
-CREATE INDEX idx_customer_lifestage
-ON qvi_purchase_behaviour_staging2(lifestage);
 
 
 -- =============================================================
--- STEP 10: REMOVE TEMPORARY COLUMNS
+-- STEP 9: REMOVE TEMPORARY COLUMNS
 -- =============================================================
 
 -- Remove helper column used during duplicate detection.
