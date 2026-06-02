@@ -77,7 +77,7 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * New families acount for only 3% of total revenue, generating approximately £50K in sales during the period. This highlights a limited contribution from this life stage group to overall business performance.
 * Mainstream customers are the most important customer segment, consistently generating the highest sales across every month and achieving the highest average transaction value at £7,41, while also representing the largest customer base. This indicates that Mainstream customers drive a disproportionate share of customer revenue due to their scale and consistent purchasing activity compared with other customer groups.
 * Customer value differences are driven more by purchase behaviour than spending per transaction, as Average Transaction Value remains tightly grouped between £7.31 and £7.41 and Average Basket Size stays stable around 1.91 to 1.92 across customer tiers. In Contrast, Purchase Frequence varies significantly across segments, showing that how often customers shop is the main factor separating high and low value customers rather than how much they spend per visit
-<img width="1155" height="384" alt="Screenshot 2026-06-02 at 16 22 03" src="https://github.com/user-attachments/assets/c84f5ec7-9b06-47a9-998e-057874e7322e" />
+<img width="1143" height="372" alt="image" src="https://github.com/user-attachments/assets/54988f97-e15c-4e22-bb73-1d96027dadf1" />
 
 ## Recommendations
 ## Assumptions and Caveats
