@@ -72,5 +72,10 @@ Before analysis, several data quality checks and cleaning procedures were comple
 
 ## Executive Summary
 ## Insights Deep Dive
+### Customer behaviour
+* Revenue is heavily concentrated in older life stage group, with Older Single/Couples contributing 21% of total revenue and the combined Older Families, Older singles/Couples, and Retirees accounting for 58% of total revenue. This show that more than half of all customer revenue is generrated by olde life stage segments, making them the dominant customer base in overall sale performance.
+* New families acount for only 3% of total revenue, generating approximately £50K in sales during the period. This highlights a limited contribution from this life stage group to overall business performance.
+* Mainstream customers are the most important customer segment, consistently generating the highest sales across every month and achieving the highest average transaction value at £7,41, while also representing the largest customer base. This indicates that Mainstream customers drive a disproportionate share of customer revenue due to their scale and consistent purchasing activity compared with other customer groups.
+* Customer value differences arre driven more by purchase behaviour than spending per transaction, as Average Transaction Value remains tightly grouped between £7.31 and £7.41 and Average Basket Size stays stable around 1.91 to 1.92 across customer tiers. In Contrast, Purchase Frequence varies significantly across segments, showing that how often customers shop is the main factor separating high and low value customers rather than how much they spend per visit
 ## Recommendations
 ## Assumptions and Caveats
