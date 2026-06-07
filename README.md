@@ -12,17 +12,13 @@ The analysis focuses on key business metrics including
 * Average Transaction Value (ATV)
 * Customer Purchase Frequency
 * Product Sales Performance
-* Store Performance
 * Customer Segment Contribution
-* Loyalty Customer Retention
 
 Insights and recommendations are provided on the following key areas:
 ### Northstar Metrics
 * **Sales trends** - Focusing on total sales revenue, transaction volume, and average transaction value.
 * **Customer behaviour** - Understanding purchasing behaviours across customer lifestages and premium customer segments.
 * **Product performance** - Evaluating top-performing and underperforming products across stores and customer groups.
-* **Loyalty program effectiveness** - Measuring the impact of loyalty customers on revenue growth and repeat purchasing behaviour.
-
 The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/ProsperObayangbon/quantum-chips-retail-analysis/blob/main/sql/data_cleaning.sql)
 
 Targeted SQL queries regarding various business questions can be found here [link](https://github.com/ProsperObayangbon/quantum-chips-retail-analysis/blob/main/sql/Business_questions.sql)
@@ -93,7 +89,6 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * Lower performing product such as  **Woolworths Medium Salsa (2,700 units; £4.1K revenue) to Sunbites French Onin (2,823 units; £4.6K revenue) generated less than 0.3%** of category revenue each despite maintaining steady order volumes, suggesting these products occupy shelf space without creating meaningful financial impact and may warrant range rationalization review.
 * The performance gap across the portfolio is significant. While the highest-performing product generated **£40.4K**, the lowest-performing products, such as **Woolworths Medium Salsa 300g (£4.1K)** and **Woolworths Mild Salsa 300g (£4.2K)**, generated less than one-eighth of that amount. This highlights considerable variation in product contribution and suggests that revenue generation is unevenly distributed across the portfolio.
 <img width="1367" height="599" alt="image" src="https://github.com/user-attachments/assets/1a19169a-bdcc-4405-8027-f211c93c0180" />
-
 
 ## Recommendations
 ## Assumptions and Caveats
