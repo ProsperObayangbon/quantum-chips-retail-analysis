@@ -72,7 +72,7 @@ Before analysis, several data quality checks and cleaning procedures were comple
 
 ## Executive Summary
 ## Insights Deep Dive
-## Sales Trends
+### Sales Trends
 * The company generated approximately **£1.93M in revenue from 505,122 units sold** between July 2018 and June 2019, with monthly revenue remaining relatively stable between **£150.7K and £167.9K**. This indicates a consistent level of customer demand throughout the year, with no prolonged periods of significant volatility outside of seasonal flutuations.
 * **December 2018 recorded the hightest revenue (£167.9K) and sales volume (43,845 units)** of the year. Compared with the annual monthly average revenue of approximately **£161.2K**, December signicantly outpermed all other months. This suggests a strong seasonal uplift in customer purchasing activity, likely associated with increaswed holiday period spending and year end shopping behaviour.
 * **February 2019 recorded the lowest revenue (£150.7K) and lowest sales volume (39,220 units)** during the reporting period. Compared with December 2018, revenue declined by approximately **10.3% (£17.2K)** and unit sales fell by **10.6% (4,625 units). The timing of this decline suggests a post holiday slowdown, where customer purchasing activity returned to lower levels following the yeat end peak.
@@ -86,6 +86,12 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * Mainstream customers are the most important customer segment, consistently generating the highest sales across every month and achieving the highest average transaction value at **£7,41**, while also representing the largest customer base. This indicates that Mainstream customers drive a disproportionate share of customer revenue due to their scale and consistent purchasing activity compared with other customer groups.
 * Customer value differences are driven more by purchase behaviour than spending per transaction, as Average Transaction Value remains tightly grouped between **£7.31 and £7.41** and Average Basket Size stays stable around **1.91 to 1.92** across customer tiers. In Contrast, Purchase Frequence varies significantly across segments, showing that how often customers shop is the main factor separating high and low value customers rather than how much they spend per visit
 <img width="1143" height="390" alt="image" src="https://github.com/user-attachments/assets/7a80273c-95f6-46a3-bac0-ad6e9dfdc652" />
+
+### Product Performance
+* Revenue is concentrated among a relatively small grroup of products, with **Dorito Corn Chips Supreme 300g generating £40.4K, repreesntiing approximately 2.1% of total reveue**. The top 10 products collectively generatted apprroximately **344.3K, accounting for 17.8% of total sales**, highlighting the disproportionate contribution of as small subset of the product portfolio to overall business performance.
+* **Kettle is the strongest performing product brand, with its product variants generating approximattelly £434.0K in revenue, representing 22.4% of total sales**. Compared with individual competing brands, Kettle maintains a broad portolio of high performing products, demonstrating strong customer demand across multiple flavours rather than dependence on a single best seller.
+* Lower performing product such as  **Woolworths Medium Salsa (2,700 units; £4.1K revenue) to Sunbites French Onin (2,823 units; £4.6K revenue) generated less than 0.3%** of category revenue each despite maintaining steady order volumes, suggesting these products occupy shelf space without creating meaningful financial impact and may warrant range rationalization review.
+* The performance gap across the portfolio is significant. While the highest-performing product generated **£40.4K**, the lowest-performing products, such as **Woolworths Medium Salsa 300g (£4.1K)** and **Woolworths Mild Salsa 300g (£4.2K)**, generated less than one-eighth of that amount. This highlights considerable variation in product contribution and suggests that revenue generation is unevenly distributed across the portfolio.
 
 ## Recommendations
 ## Assumptions and Caveats
