@@ -92,6 +92,8 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * **Kettle is the strongest performing product brand, with its product variants generating approximattelly £434.0K in revenue, representing 22.4% of total sales**. Compared with individual competing brands, Kettle maintains a broad portolio of high performing products, demonstrating strong customer demand across multiple flavours rather than dependence on a single best seller.
 * Lower performing product such as  **Woolworths Medium Salsa (2,700 units; £4.1K revenue) to Sunbites French Onin (2,823 units; £4.6K revenue) generated less than 0.3%** of category revenue each despite maintaining steady order volumes, suggesting these products occupy shelf space without creating meaningful financial impact and may warrant range rationalization review.
 * The performance gap across the portfolio is significant. While the highest-performing product generated **£40.4K**, the lowest-performing products, such as **Woolworths Medium Salsa 300g (£4.1K)** and **Woolworths Mild Salsa 300g (£4.2K)**, generated less than one-eighth of that amount. This highlights considerable variation in product contribution and suggests that revenue generation is unevenly distributed across the portfolio.
+<img width="1367" height="599" alt="image" src="https://github.com/user-attachments/assets/1a19169a-bdcc-4405-8027-f211c93c0180" />
+
 
 ## Recommendations
 ## Assumptions and Caveats
