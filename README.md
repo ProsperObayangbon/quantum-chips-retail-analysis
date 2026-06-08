@@ -67,6 +67,7 @@ Before analysis, several data quality checks and cleaning procedures were comple
 
 
 ## Executive Summary
+The company generated approximately **£1.9M in revenue from June 2019 to July 2019**, with **58% of sales concentrated among Older Families, Older Singles/Couples, and Retirees**, making these segments critical to short-term revenue stability. Customer value is primary driven by **purchase frequency rather than transaction size**, highlighting retention and repeat purchasing as the the most important growth levers. While Maiinstream customers remain the core revenue engine, significant growth opportunities exist within **Young Families**, who demostrate strong engagement and long term value potential. Leadsership should prioritise protecting high-value older segments, reducing dependence on them through targeted acquisition of younger customers, and implementing frequency based loyaty and retention programs to drive sustainable revenue growth.
 ## Insights Deep Dive
 ### Sales Trends
 * The company generated approximately **£1.93M in revenue from 505,122 units sold** between July 2018 and June 2019, with monthly revenue remaining relatively stable between **£150.7K and £167.9K**. This indicates a consistent level of customer demand throughout the year, with no prolonged periods of significant volatility outside of seasonal flutuations.
