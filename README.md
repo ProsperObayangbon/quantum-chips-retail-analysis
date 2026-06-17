@@ -63,7 +63,7 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * Checked and standardised inconsistent product naming conventions.
 
 ## Entity Relationship Diagram (ERD)
-<img width="1196" height="406" alt="ChatGPT Image Jun 17, 2026 at 08_10_23 PM" src="https://github.com/user-attachments/assets/acc7a4c7-7b84-4723-9330-7b0ef369739e" />
+<img width="858" height="291" alt="ChatGPT_Image_Jun_17__2026_at_08_10_23_PM-removebg-preview" src="https://github.com/user-attachments/assets/afacb530-6f86-40a7-99b1-f3f742a74228" />
 
 ## Executive Summary
 The analysis revealed that **Older Families, Older Singles/Couples, and Retirees are the primary revenue drivers**, collectively contributing **58% of total sales**, making older life-stage customers the foundation of overall business performance. **Mainstream customers also play a critical role**, consistently generating the highest sales volume and demonstrating strong and stable purchasing behaviour across all months. Customer value is primarily driven by **purchase frequency rather than basket size or average transaction value**, indicating that repeat shopping behaviour is the key lever of revenue growth and retention.
