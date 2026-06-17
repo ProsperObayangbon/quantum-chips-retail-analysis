@@ -63,8 +63,7 @@ Before analysis, several data quality checks and cleaning procedures were comple
 * Checked and standardised inconsistent product naming conventions.
 
 ## Entity Relationship Diagram (ERD)
-<img width="800" height="350" alt="Gemini_Generated_Image_e2ltw1e2ltw1e2lt" src="https://github.com/user-attachments/assets/ec636566-fb08-4ec0-891c-00649485d166" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be632fd5-a203-4492-b21a-262cf5ec06da" />
 
 ## Executive Summary
 The analysis revealed that **Older Families, Older Singles/Couples, and Retirees are the primary revenue drivers**, collectively contributing **58% of total sales**, making older life-stage customers the foundation of overall business performance. **Mainstream customers also play a critical role**, consistently generating the highest sales volume and demonstrating strong and stable purchasing behaviour across all months. Customer value is primarily driven by **purchase frequency rather than basket size or average transaction value**, indicating that repeat shopping behaviour is the key lever of revenue growth and retention.
