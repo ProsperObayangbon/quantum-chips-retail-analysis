@@ -71,7 +71,7 @@ The analysis revealed that **Older Families, Older Singles/Couples, and Retirees
 At the product level, revenue is highly concentrated among a small number of strong-performing brands, with **Kettle alone contributing over 22% of total sales** through a broad and well-performing product portfolio. In contrast, a long tail of low-performing products contributes minimal revenue while occupying shelf space, highlighting a clear opportunity for **range rationalisation and portfolio optimisation**. Seasonal analysis further shows predictable demand patterns, with **strong sales peaks in December driven by holiday spending** and a consistent **post-holiday decline in February**, followed by a recovery in March.
 <img width="1472" height="821" alt="image" src="https://github.com/user-attachments/assets/f73c494a-fa47-4bc3-8b34-8787b199b62f" />
 
-An interactive Power BI dashboard used to report and explore this metrics can be found here [link](https://app.powerbi.com/view?r=eyJrIjoiMGRlZDU4NzYtMmRlYS00N2Q3LThmYWMtYzg2YWJiZDExM2M4IiwidCI6ImE4NDg4ZDM4LTg0OWUtNGYzZi1hNWM2LTI0OWJjZGUyYTc3MCJ9)
+An interactive Power BI dashboard used to report and explore this metrics can be found here [link](hhttps://app.powerbi.com/view?r=eyJrIjoiMGRlZDU4NzYtMmRlYS00N2Q3LThmYWMtYzg2YWJiZDExM2M4IiwidCI6ImE4NDg4ZDM4LTg0OWUtNGYzZi1hNWM2LTI0OWJjZGUyYTc3MCJ9)
 
 
 ## Insights Deep Dive
