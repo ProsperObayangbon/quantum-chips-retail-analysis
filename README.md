@@ -23,7 +23,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Targeted SQL queries regarding various business questions can be found here [link](https://github.com/ProsperObayangbon/quantum-chips-retail-analysis/blob/main/sql/Business_questions.sql)
 
-An interactive Power BI dashboard used to report and explore this metrics can be found here [link](https://app.powerbi.com/groups/me/reports/35420d9c-aa13-4137-974f-4b846f02b3e6/4a21b509bc00898d8c75?experience=power-bi)
+An interactive Power BI dashboard used to report and explore this metrics can be found here [link](<iframe title="Quantum Chip Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGRlZDU4NzYtMmRlYS00N2Q3LThmYWMtYzg2YWJiZDExM2M4IiwidCI6ImE4NDg4ZDM4LTg0OWUtNGYzZi1hNWM2LTI0OWJjZGUyYTc3MCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 ## Data Structure & Initial Checks
 The company's database structure consist of two primary tables: transaction_data and purchase_behaviour, with a combined row count exceeding 250,000 records.
 
@@ -71,7 +71,7 @@ The analysis revealed that **Older Families, Older Singles/Couples, and Retirees
 At the product level, revenue is highly concentrated among a small number of strong-performing brands, with **Kettle alone contributing over 22% of total sales** through a broad and well-performing product portfolio. In contrast, a long tail of low-performing products contributes minimal revenue while occupying shelf space, highlighting a clear opportunity for **range rationalisation and portfolio optimisation**. Seasonal analysis further shows predictable demand patterns, with **strong sales peaks in December driven by holiday spending** and a consistent **post-holiday decline in February**, followed by a recovery in March.
 <img width="1469" height="826" alt="image" src="https://github.com/user-attachments/assets/91446dd8-3c6f-458c-85c0-d65604b92167" />
 
-An interactive Power BI dashboard used to report and explore this metrics can be found here [link](https://app.powerbi.com/groups/me/reports/35420d9c-aa13-4137-974f-4b846f02b3e6/4a21b509bc00898d8c75?experience=power-bi)
+An interactive Power BI dashboard used to report and explore this metrics can be found here [link](<iframe title="Quantum Chip Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGRlZDU4NzYtMmRlYS00N2Q3LThmYWMtYzg2YWJiZDExM2M4IiwidCI6ImE4NDg4ZDM4LTg0OWUtNGYzZi1hNWM2LTI0OWJjZGUyYTc3MCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 ## Insights Deep Dive
